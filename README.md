@@ -64,7 +64,7 @@ image.save("output.png")
 
 ## Acknowledgments
 
-This project is built upon the foundational work of the creators of Stable Diffusion. I would like to express my gratitude to the original authors and contributors who made this technology possible. Your groundbreaking work has inspired and enabled countless projects, including this one.
+This project is built upon the foundational work of the creators of Stable Diffusion. Check out their [paper](https://arxiv.org/pdf/2112.10752). I would like to express my gratitude to the original authors and contributors who made this technology possible. Your groundbreaking work has inspired and enabled countless projects, including this one.
 
 ---
 
